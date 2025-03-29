@@ -1,6 +1,10 @@
 # Pecarian.html
 Pencarian Pariwisata
-<!DOCTYPE html>
+
+
+
+     
+  <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -13,8 +17,7 @@ Pencarian Pariwisata
   </head>
   <body>
 
-
-    <div class="main-container">
+<div class="main-container">
       <div class="rectangle">
         <span class="cari-objek-wisata">Cari objek wisata </span>
         <div class="search"></div>
@@ -23,41 +26,41 @@ Pencarian Pariwisata
 
 
 
-      <div class="rectangle-1">
+<div class="rectangle-1">
         <div class="vector"></div>
         <span class="pulau-jawa">Pulau Jawa </span>
       </div>
 
 
 
-      <div class="rectangle-2">
+<div class="rectangle-2">
         <div class="vector-3"></div>
         <span class="pulau-sumatra">Pulau Sumatra </span>
       </div>
 
 
 
-      <div class="rectangle-4">
+<div class="rectangle-4">
         <div class="vector-5"></div>
         <span class="pulau-sulawesi">Pulau Sulawesi </span>
       </div>
 
 
-      <div class="rectangle-6">
+<div class="rectangle-6">
         <div class="vector-7"></div>
         <span class="pulau-kalimantan">Pulau Kalimantan </span>
       </div>
 
-      <div class="user"></div>
-      <span class="aktifkan-lokasi">Aktifkan Lokasi</span>
-      <div class="rectangle-8">
-        <div class="vector-9"></div>
-        <span class="pulau-papua">Pulau Papua </span>
-      </div>
+  <div class="user"></div>
+  <span class="aktifkan-lokasi">Aktifkan Lokasi</span>
+  <div class="rectangle-8">
+  <div class="vector-9"></div>
+  <span class="pulau-papua">Pulau Papua </span>
+  </div>
 
 
-      <div class="marker"></div>
-    </div>
+  <div class="marker"></div>
+  </div>
   </body>
 </html>
 
